@@ -1,0 +1,18 @@
+Se realizó un torneo de Pesca en la región de La Patagonia para poder investigar la 
+fauna local. Se solicita un programa que permita el ingreso de la cantidad de capturas 
+que se hicieron durante el torneo y que fueron devueltas inmediatamente a su hábitat.
+
+Por cada captura se registra: 
+	▪ ID del Pescador (1 a 4) 
+	▪ Peso de la captura (en gramos) 
+	▪ Hora de la captura (0 a 23) 
+	▪ Tipo de especie ('A' - Autóctona, 'F' - Foránea) 
+
+El fin de ingreso de capturas se indica con ID pescador negativo. 
+
+Se pide calcular e informar:
+ 
+A) El ID del pescador que más kilos haya registrado. 
+B) El promedio de peso de los peces expresado en kilogramos. 
+C) El porcentaje de peces autóctonos y el porcentaje de peces foráneos. 
+D) La hora en que se haya capturado el pez foráneo más pesado.
