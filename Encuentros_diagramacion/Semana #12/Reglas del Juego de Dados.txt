@@ -1,0 +1,51 @@
+Reglas del Juego de Dados
+
+Jugadores:
+Participan dos jugadores.
+
+Duración del juego:
+La partida se juega en tres turno.
+
+Turnos:
+En cada ronda, los jugadores se turnan para lanzar los dados. El jugador que inicia la ronda alterna en cada una:
+
+En la primera ronda comienza el Jugador 1.
+
+En la segunda, el Jugador 2.
+
+En la tercera, nuevamente el Jugador 1.
+
+Lanzamiento de dados:
+Cada jugador lanza 5 dados de 6 caras en su turno.
+
+Puntaje:
+Al final de cada turno, se suma el valor de los 5 dados lanzados y se acumula al puntaje total del jugador.
+
+Ganador:
+Al finalizar las tres rondas, se comparan los puntajes totales:
+
+Gana el jugador con mayor suma total de puntos.
+
+Si ambos jugadores tienen el mismo puntaje, la partida termina en empate.
+
+Estadísticas:
+El juego debe llevar un registro del puntaje máximo obtenido por un jugador en cualquier partida.
+
+Esta información estará disponible en una sección u opción llamada "Estadísticas", donde se podrá consultar y actualizar el puntaje más alto histórico alcanzado hasta el momento.
+
+Se debe crear un menu como el siguiente:
+
+-----------------
+|1- JUGAR       |
+|2- ESTADISTICAS|
+|3- SALIR       |
+-----------------
+
+Se debe desarrollar en un Proyecto en C++ en el IDE Code::Blocks, usando funciones, vectores
+y librerías.
+
+NOTA: Los dados se deben generar aleatoriamente.
+Adicional: Se debe registrar el nombre de los jugadores.
+
+Enlace: https://drive.google.com/file/d/1UKxv49U3D8D8hGMG2_Ue98lCw2MLoG4X/view?usp=sharing
+
